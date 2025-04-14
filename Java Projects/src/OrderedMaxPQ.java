@@ -1,4 +1,4 @@
-public class pewdiepie {
+public class OrderedMaxPQ {
     public static void main(String[] args) {
 
     }
